@@ -5,7 +5,7 @@ NodeJS tool to convert json files to insert into query in SQL
 ## Installation
 Clone repository:
 
-    $ git clone https://github.com/MoldBreaker/json-to-sql.git
+    git clone https://github.com/MoldBreaker/json-to-sql.git
 
 You need NodeJS to run this project, if dont have yet, [download here](https://nodejs.org/en/download)
 
